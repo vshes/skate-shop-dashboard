@@ -1,0 +1,74 @@
+
+
+header,
+footer,
+nav{
+    display: block;
+}
+nav{
+    width:100%;
+    margin: 0;
+}
+body{
+    background:lavender;
+}
+
+
+div.skate-header
+{
+    display: block;
+    background: blueviolet;
+    height: 8%;
+}
+
+
+nav ul {
+    overflow: hidden;
+    display: block;
+    background-color: gold;
+    color: black;
+    width: 100%;
+    margin: 0;
+}
+
+
+li.skate-nav-li {
+    display: block;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    color: maroon;
+
+}
+
+.container.skate-sign-in{
+    margin-top: 8%;
+}
+
+.card.sign-in-card{
+
+    background-color:lightgoldenrodyellow;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.50);
+    -webkit-box-shadow: 2px 2px 5px rgba(0,0,0,.50);
+    moz-box-shadow: 2px 2px 5px rgba(0,0,0,.50);
+}
+
+img.skate-image{
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+    width:70%;
+}
+form.form-skate{
+    max-width: 350px;
+    margin: auto;
+}
+
+button.skate-sign-in-btn{
+    background: maroon;
+    color: white;
+    display: block;
+    width: 100%;
+}

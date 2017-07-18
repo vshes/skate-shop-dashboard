@@ -1,0 +1,75 @@
+body{
+    background-color: lightsteelblue;
+}
+
+.jumbotron{
+    background-color: palegoldenrod;
+    text-align: center;
+    padding: 2rem;
+}
+
+.skate-section-light{
+    background-color: lightcyan;
+    padding: 2rem;
+}
+.skate-section-dark{
+    background-color: gray;
+    padding: 2rem;
+}
+
+.skate-btn{
+    display: block;
+    margin: auto;
+    background-color: red;
+    color: white;
+}
+.skate-carousel{
+    padding: 2rem;
+}
+h5.modal-header{
+    margin: auto;
+    align-content: center;
+}
+.skate-modal-form{
+    padding:2rem;
+    display: block;
+    margin: auto;
+}
+.skate-image-bottom{
+    display: block;
+    margin: auto;
+}
+.skate-btn-bottom{
+    display: block;
+    margin:auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 60%;
+
+}
+.footer{
+    display: block;
+    background: lightgray;
+    width:98%;
+    margin: auto;
+
+
+}
+.skate-footer-img{
+    width:50%;
+}
+.fa{
+    margin:auto;
+    padding: 5px;
+}
+
+.fa-github-square{
+    color: white;
+}
+
+.fa-google-plus-square{
+    color:darkred;
+}
+.fa-facebook-square{
+    color: midnightblue;
+}
